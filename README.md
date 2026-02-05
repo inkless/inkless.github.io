@@ -1,11 +1,22 @@
 # My Personal Site
 
-This is the source code for [https://guangda.me](guangda.me). Managed by Hugo.
-
-I am maintaining my writings, projects and some other stuff here.
+Source code for [guangda.me](https://guangda.me). Built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. Deployed to GitHub Pages via GitHub Actions.
 
 ## Get Started
 
 ```bash
+# Install dependencies (requires Go and Hugo)
+hugo mod get
+
+# Start dev server (includes drafts)
 hugo server -D
+
+# Production build
+hugo --minify
+```
+
+## New Post
+
+```bash
+hugo new posts/<slug>.md
 ```
