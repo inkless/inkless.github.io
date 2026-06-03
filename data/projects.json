@@ -26,9 +26,24 @@
       "desc": "A crypto currency wallet"
     },
     {
+      "name": "Dotfiles",
+      "url": "https://github.com/inkless/dotfiles",
+      "desc": "My dotfiles"
+    },
+    {
       "name": "Node.js U2F",
       "url": "https://github.com/inkless/u2f-host-node",
       "desc": "A node.js implementation of u2f protocol"
+    },
+    {
+      "name": "React starter kit",
+      "url": "https://github.com/inkless/react-starter-kit",
+      "desc": "Yet another react starter kit"
+    },
+    {
+      "name": "Electron starter",
+      "url": "https://github.com/inkless/electron-react-redux-typescript",
+      "desc": "An electron boilerplate with TypeScript, React, and redux"
     },
     {
       "name": "WE framework",
@@ -39,6 +54,11 @@
       "name": "Dragger",
       "url": "https://github.com/inkless/dragger",
       "desc": "A drag and drop library for PC and mobile"
+    },
+    {
+      "name": "Static sites",
+      "url": "https://slides.guangda.me",
+      "desc": "A collection of static sites/slides"
     }
   ]
 }

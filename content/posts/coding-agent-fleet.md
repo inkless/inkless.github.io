@@ -5,7 +5,7 @@ date = 2026-06-03T09:00:00-07:00
 lastmod = 2026-06-03T09:00:00-07:00
 categories = ["engineering"]
 tags = ["ai", "claude-code", "agents", "workflow", "tooling"]
-draft = true
+draft = false
 +++
 
 *How I run 10–20 Claude Code agents in parallel — and the two pieces of plumbing that made it possible.*

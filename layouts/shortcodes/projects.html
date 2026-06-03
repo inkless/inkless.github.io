@@ -1,0 +1,6 @@
+{{- /* Renders the Projects list from data/projects.json (single source of truth). */ -}}
+<ul>
+{{- range site.Data.projects.list }}
+    <li><a href="{{ .url }}">{{ .name }}</a> — {{ .desc }}</li>
+{{- end }}
+</ul>
