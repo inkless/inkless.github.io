@@ -1,10 +1,14 @@
 +++
 title = "Projects"
 date = 2021-07-06T23:17:00-07:00
-lastmod = 2025-01-27T00:00:00-07:00
+lastmod = 2026-06-03T00:00:00-07:00
 draft = false
 +++
 
+- [triage](https://github.com/inkless/triage) — A Rust TUI to triage parallel Claude Code / Codex sessions across tmux panes
+- [mdbrowse](https://github.com/inkless/mdbrowse) — Browse a folder of Markdown files as a GitHub-styled website, locally
+- [obsidian-tasks-timeline](https://github.com/inkless/obsidian-tasks-timeline) — An Obsidian plugin that renders your tasks in a timeline view
+- [orz-cli](https://github.com/inkless/orz-cli) — A CLI that streamlines dev workflows — PRs with automated Jira ticket creation
 - [Keevo](https://www.keevowallet.com/) — A crypto currency wallet
 - [Dotfiles](https://github.com/inkless/dotfiles) — My dotfiles
 - [Node.js U2F](https://github.com/inkless/u2f-host-node) — A node.js implementation of u2f protocol
